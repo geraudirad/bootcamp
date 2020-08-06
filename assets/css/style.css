@@ -1,0 +1,143 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.bg-green {
+    background: #2ee82e;
+}
+
+.bg-white {
+    background: #fff;
+}
+
+.full {
+    width: 100%;
+    float: left;
+}
+ 
+.width-10 {
+    width: 10%;
+    float: left;
+}
+
+.width-20 {
+    width: 20%;
+    float: left;
+}
+
+.width-30 {
+    width: 30%;
+    float: left;
+}
+
+.width-40 {
+    width: 40%;
+    float: left;
+}
+
+.width-50 {
+    width: 50%;
+    float: left;
+}
+
+.width-60 {
+    width: 60%;
+    float: left;
+}
+
+.width-70 {
+    width: 70%;
+    float: left;
+}
+
+.width-80 {
+    width: 80%;
+    float: left;
+}
+
+.width-90 {
+    width: 90%;
+    float: left;
+}
+
+.ml-35 {
+    margin-left: 35%;
+}
+
+.login-section {
+    margin-top: 200px;
+    padding: 40px
+}
+
+.login-section input {
+    width: 100%;
+    height: 40px;
+    margin-bottom: 10px;
+}
+
+.login-section input[type=text], .login-section input[type=password] {
+    background: #d4d4d4;
+    border: 0px;
+    padding: 10px;
+}
+
+.login-section button {
+    width: 105%;
+    height: 50px;
+    background: green;
+    color: #fff;
+    border: 0px;
+    padding: 10px;
+    text-align: center;
+}
+
+.login-section p {
+    text-align: center;
+}
+
+.login-section a {
+    color: green;
+    text-decoration: none;
+}
+
+.home-section .bg-header-img {
+    background: url("../images/bluesky.jpg");
+    background-repeat: no-repeat;
+    background-size: auto;
+    height: 250px;
+}
+
+.full-round {
+    width: 100%;
+    height: 250px;
+    border-radius: 20px;
+}
+
+.article-section {
+    margin-top: 25px;
+}
+
+.ml-5 {
+    margin-left: 5%;
+}
+
+.center {
+    text-align: center;
+}
+
+.article-buttons button {
+    padding: 15px;
+    border: 0px;
+    border-radius: 40px;
+}
+
+button.edit-btn {
+    background: #2ee82e;
+    color: #fff;
+}
+
+button.delete-btn {
+    background: #d30000;
+    color: #fff;
+}
